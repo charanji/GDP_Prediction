@@ -7,5 +7,5 @@
 
 ## Observations:
 * GDP followed a seasonal trend.
-* Designed the model to predict the GDP for next 3 quarters accurately.
+* The model accurately predicted the GDP rated for the next 3 quarters.
 --------------------------
